@@ -7,4 +7,5 @@ The testing models used consist of the following:
 2. Bag of words + the rest of the features - Linear, Ridge, Lasso, and Random Forest
 3. Only 10 numerical/POS/orthographic features - Linear, Ridge, Lasso, Support Vector, and Random Forest
 
-# Observations
+# Comparison of all approaches
+We have observed that the random forest results in higher cappa scores than other models; Averaging in a 0.5 cappa score. 
