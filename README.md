@@ -10,3 +10,6 @@ The testing models used consist of the following:
 # Comparison of all approaches
 We have observed that the random forest results with the highest kappa scores than other models; Averaging in a 0.5 Cohen's kappa score. 
 Linear regression model resulted with the lowest kappa scores; Averaging in 0.30 Cohen's kappa score. But it did substantially improved when tested in only 10 numerical/POS/orthographic features; resulting in a 0.47 Cohen's kappa score.
+Lasso regression model was more inconsistent in results as opposed to other models; resulting in 0.39 in Bag of words; 0.41 when added the other features; but it did improve in the last testing resuling in a 0.47 Cohen's kappa score – tied with the linear regression model.
+Support vector model, which took the longest time to execute, only resulted in 0.41 on all testings. 
+It was also observed that all models resulted in higher scores when only tested in only 10 numerical/POS/orthographic features.
