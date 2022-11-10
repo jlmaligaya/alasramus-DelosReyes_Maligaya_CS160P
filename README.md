@@ -8,4 +8,5 @@ The testing models used consist of the following:
 3. Only 10 numerical/POS/orthographic features - Linear, Ridge, Lasso, Support Vector, and Random Forest
 
 # Comparison of all approaches
-We have observed that the random forest results in higher cappa scores than other models; Averaging in a 0.5 Cohen's kappa score. 
+We have observed that the random forest results with the highest kappa scores than other models; Averaging in a 0.5 Cohen's kappa score. 
+Linear regression model resulted with the lowest kappa scores; Averaging in 0.30 Cohen's kappa score. But it did substantially improved when tested in only 10 numerical/POS/orthographic features; resulting in a 0.47 Cohen's kappa score.
