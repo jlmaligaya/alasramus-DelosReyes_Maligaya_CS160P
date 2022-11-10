@@ -6,3 +6,5 @@ The testing models used consist of the following:
 1. Bag of words - Linear, lasso, and Random Forest
 2. Bag of words + the rest of the features - Linear, Ridge, Lasso, and Random Forest
 3. Only 10 numerical/POS/orthographic features - Linear, Ridge, Lasso, Support Vector, and Random Forest
+
+# Observations
