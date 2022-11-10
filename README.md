@@ -8,4 +8,4 @@ The testing models used consist of the following:
 3. Only 10 numerical/POS/orthographic features - Linear, Ridge, Lasso, Support Vector, and Random Forest
 
 # Comparison of all approaches
-We have observed that the random forest results in higher cappa scores than other models; Averaging in a 0.5 cappa score. 
+We have observed that the random forest results in higher cappa scores than other models; Averaging in a 0.5 Cohen's kappa score. 
